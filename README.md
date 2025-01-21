@@ -20,5 +20,4 @@
 - `scripts/covid_analysis.py` → Contains the data processing and visualization code.
 - `data/` → Includes the dataset used for the analysis.
 - `images/` → Contains generated graphs and visualizations.
-- `report.ipynb` → Interactive Jupyter Notebook with code and explanations.
 - `README.md` → Overview of the project and key findings.
